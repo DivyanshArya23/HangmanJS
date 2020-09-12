@@ -1,0 +1,19 @@
+body {
+  background-image: url("./images/bg.jpg");
+  background-size: cover;
+}
+
+#gameName {
+  font-family: "Architects Daughter", cursive;
+  font-weight: bolder;
+}
+
+#currentWord {
+  font: 50px "Itim", cursive;
+}
+
+#lives {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+}
